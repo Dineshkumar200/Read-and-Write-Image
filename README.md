@@ -1,4 +1,4 @@
-# READ AND WRITE AN IMAGE
+# 1.READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
@@ -60,31 +60,19 @@ cv2.imshow("cutting portion",bw2)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
-
-
-
-
-
-
-
-
 ```
-## Output:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
 
 ### i) Read and display the image
-
-
-
 ![g1](https://user-images.githubusercontent.com/75235789/160869249-2d4b6302-30fa-4269-b473-1ffa14229774.jpg)
 
 
 ### ii)Write the image
+![Screenshot 2022-06-21 113345](https://user-images.githubusercontent.com/75235789/174727612-8266e23a-e63f-4187-be86-938de116f96c.png)
 
-![g2](https://user-images.githubusercontent.com/75235789/160869306-41aad4f1-a397-4c73-b16d-fbbddbd76a1c.jpg)
 
 
-### iii)Shape of the Image
+### <br/><br/><br/><br/><br/><br/>iii)Shape of the Image
 
 ![g2](https://user-images.githubusercontent.com/75235789/160869370-080dd026-8c7f-45b0-ba21-201de427530a.jpg)
 
@@ -97,7 +85,7 @@ cv2.destroyAllWindows()
 ![g4](https://user-images.githubusercontent.com/75235789/160869404-4d3e493c-a007-4e76-ab3c-bbf432988228.jpg)
 
 
-## Result:
+## <br/><br/><br/><br/><br/><br/>Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
 

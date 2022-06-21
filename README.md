@@ -78,7 +78,6 @@ cv2.destroyAllWindows()
 
 
 ### iv)Access rows and columns
-<br/>
 ![g3](https://user-images.githubusercontent.com/75235789/160869346-ccb0e264-ebcd-44dc-8c81-687c767f9c54.jpg)
 
 

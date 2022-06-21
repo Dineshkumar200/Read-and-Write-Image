@@ -61,7 +61,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
 
 ### i) Read and display the image
 ![g1](https://user-images.githubusercontent.com/75235789/160869249-2d4b6302-30fa-4269-b473-1ffa14229774.jpg)
@@ -72,16 +72,17 @@ cv2.destroyAllWindows()
 
 
 
-### <br/><br/><br/><br/><br/><br/>iii)Shape of the Image
+### <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>iii)Shape of the Image
 
 ![g2](https://user-images.githubusercontent.com/75235789/160869370-080dd026-8c7f-45b0-ba21-201de427530a.jpg)
 
 
 ### iv)Access rows and columns
+<br/>
 ![g3](https://user-images.githubusercontent.com/75235789/160869346-ccb0e264-ebcd-44dc-8c81-687c767f9c54.jpg)
 
 
-### v)Cut and paste portion of image
+### <br/><br/><br/><br/><br/><br/><br/>v)Cut and paste portion of image
 ![g4](https://user-images.githubusercontent.com/75235789/160869404-4d3e493c-a007-4e76-ab3c-bbf432988228.jpg)
 
 
